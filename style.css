@@ -25,9 +25,9 @@
   padding: 5px;
 }
 .link {
-  font-size: large;
-  color: black;
-  background-color: red;
+  font-size: x-large;
+  color: blue;
+  font-weight: bold;
 }
 .movie {
   font-size: xx-large;
@@ -36,4 +36,5 @@
   text-align: center;
   text-decoration: underline;
 }
+
 
